@@ -7,7 +7,7 @@ let myDate= new Date ()
 
 // console.log(typeof myDate);
 //my created date
-let myCreatedDate = new Date (2026, 0, 03)
+let myCreatedDate = new Date (2026, 0, 3)
 // console.log(myCreatedDate.toString());
 // console.log(myCreatedDate.toLocaleString());
 
